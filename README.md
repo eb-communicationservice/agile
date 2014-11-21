@@ -44,7 +44,7 @@ agile
 
 =====
 
-### CIについて
+### CI (continuous integration / 継続的インテグレーション)環境について
 
 * フェーズ
  * 新規開発〜保守
